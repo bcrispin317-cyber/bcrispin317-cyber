@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Byron Alexander Crispín Guzmán
 
-<!--
-**bcrispin317-cyber/bcrispin317-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering Student at Universidad de San Carlos de Guatemala (USAC).
 
-Here are some ideas to get you started:
+Software Developer passionate about building business management systems and desktop applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Systems Engineering Student at USAC.
+- Java Developer.
+- Experience developing desktop applications with Java Swing.
+- Interested in software architecture and business management systems.
+- Co-founder of CodeForge Solutions.
+
+---
+
+## Technologies & Tools
+
+- Java
+- Java Swing
+- Git & GitHub
+- HTML & CSS
+- Object-Oriented Programming (OOP)
+- Model-View-Controller (MVC)
+- CSV Processing
+- Object Serialization
+
+---
+
+## Featured Projects
+
+### PONCHITRUCK
+Fleet and Delivery Management System developed in Java.
+
+### IPC Quimik
+Laboratory Management System developed with Java Swing and MVC architecture.
+
+### Hardware Store Management System
+Business management software for inventory, sales, and administration.
+
+---
+
+## Contact
+
+Location: Guatemala
+
+Organization: CodeForge Solutions
+
+Building software solutions that help businesses grow through technology.
