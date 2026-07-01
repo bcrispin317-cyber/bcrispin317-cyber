@@ -54,6 +54,10 @@ Building software solutions that help businesses grow through technology.
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bcrispin317-cyber&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bcrispin317-cyber&show_icons=true&theme=github_dark" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bcrispin317-cyber&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcrispin317-cyber&layout=compact&theme=github_dark" />
+</p>
