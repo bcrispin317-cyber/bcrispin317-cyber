@@ -46,7 +46,7 @@ Business management software for inventory, sales, and administration.
 
 Location: Guatemala
 
-Organization: CodeForge Solutions
+Organization: 
 
 Building software solutions that help businesses grow through technology.
 
